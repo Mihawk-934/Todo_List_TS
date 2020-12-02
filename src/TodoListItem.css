@@ -1,0 +1,14 @@
+.line-through {
+    text-decoration: line-through;
+}
+
+li {
+    list-style: none;
+    padding: 5px;
+}
+
+label input {
+    margin-right: 10px;
+    color: orange;
+    padding: 5px;
+}
